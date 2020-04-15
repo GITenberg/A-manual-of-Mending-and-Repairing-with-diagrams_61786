@@ -1,5 +1,8 @@
 _repo: A-manual-of-Mending-and-Repairing-with-diagrams_61786
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 61786-h/images/cover.jpg
 creator:
   author:
     agent_name: Leland, Charles Godfrey
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/243
     wikipedia: http://en.wikipedia.org/wiki/Charles_Godfrey_Leland
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61786#A-manual-of-Mending-and-Repairing-with-diagrams
 gutenberg_issued: '2020-04-08'
 gutenberg_type: Text
 identifiers:
